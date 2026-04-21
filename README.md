@@ -90,5 +90,7 @@
 - [Skills 공식 문서](https://code.claude.com/docs/en/skills)
 - [Sub-agents 공식 문서](https://code.claude.com/docs/en/sub-agents)
 - [OpenDart API 가이드](https://opendart.fss.or.kr/guide/main.do)
+- [AI Native Camp 1기](https://github.com/ai-native-camp/camp-1)
+- [Agent Study Group 1기](https://teamsparta.notion.site/)
 
 2026.04.09 Doohyun KIM
